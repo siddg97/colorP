@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="colorp",
-    version="0.0.6",
+    version="0.0.1",
     author="Siddharth Gupta",
     author_email="g.sidd97@gmail.com",
     description="A small package for printing colored strings",

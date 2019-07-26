@@ -1,4 +1,4 @@
-name="colorP"
+name="colorp"
 START='\x1b['
 END='\x1b[0m'
 format={'plain':0,'bold':1,'dim':2,'italic':3,'underline':4,'blink':5,'reverse':7,'hidden':8,'striked':9}
