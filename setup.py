@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pchroma",
-    version="0.0.1",
+    name="colorp",
+    version="0.0.6",
     author="Siddharth Gupta",
     author_email="g.sidd97@gmail.com",
     description="A small package for printing colored strings",
